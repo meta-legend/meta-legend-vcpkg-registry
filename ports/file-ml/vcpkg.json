@@ -1,0 +1,17 @@
+{
+  "name": "file-ml",
+  "version": "1.0.0",
+  "description": "Cross-platform C++17 filesystem utilities (ML::File). Zero external dependencies. Part of the meta-legend family.",
+  "homepage": "https://github.com/meta-legend/file-ml-library",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
