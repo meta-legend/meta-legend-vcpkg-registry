@@ -1,8 +1,12 @@
 {
   "default": {
     "network-ml": {
-      "baseline": "2.0.0",
-      "port-version": 1
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
+    "file-ml": {
+      "baseline": "1.0.0",
+      "port-version": 0
     }
   }
 }
