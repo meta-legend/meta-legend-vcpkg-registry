@@ -1,4 +1,4 @@
-# vcpkg-registry
+# network-ml-vcpkg-registry
 
 A [vcpkg](https://github.com/microsoft/vcpkg) registry hosting the
 [`network-ml`](https://github.com/meta-legend/network-ml-library) port.
@@ -12,7 +12,7 @@ In your project, add a `vcpkg-configuration.json` next to your `vcpkg.json`:
   "registries": [
     {
       "kind": "git",
-      "repository": "https://github.com/meta-legend/vcpkg-registry",
+      "repository": "https://github.com/meta-legend/network-ml-vcpkg-registry",
       "baseline": "<latest commit on this repo's main>",
       "packages": [ "network-ml" ]
     }
