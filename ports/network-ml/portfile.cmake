@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO meta-legend/network-ml-library
     REF "v${VERSION}"
-    SHA512 e444f3918a12b4a8ebe46cd0001be09521049a87e2d857e3283eea4ca88f6bffb5d6339f460ceb939a6d19a0c6bbd62969452650f165315bd3dd2c5b5581d900
+    SHA512 f0458dfb3fc556caf5fb3b94dbbd559cefbed50d7fda16d4ad5674123d1665e25cf0862aa48388f5fd5cfe17b1322019e2f8e22457bad20e1488520e9feed511
     HEAD_REF main
 )
 

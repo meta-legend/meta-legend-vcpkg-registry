@@ -1,6 +1,7 @@
 {
   "name": "network-ml",
-  "version": "2.1.0",
+  "version": "2.0.0",
+  "port-version": 2,
   "description": "A modern C++17 library for REST/HTTP requests and multi-provider LLM chat (Ollama, OpenAI, Anthropic, Groq, OpenRouter, DeepSeek), all built on libcurl.",
   "homepage": "https://github.com/meta-legend/network-ml-library",
   "license": "MIT",
