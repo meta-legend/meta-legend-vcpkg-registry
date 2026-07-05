@@ -1,7 +1,7 @@
 # meta-legend-vcpkg-registry
 
-A [vcpkg](https://github.com/microsoft/vcpkg) registry hosting the meta-legend
-C++ libraries. Add the registry once and pull any of these ports:
+A [vcpkg](https://github.com/microsoft/vcpkg) registry hosting the `network-ml`
+and `file-ml` ports. Add the registry once and pull either or both:
 
 | Port | Library | CMake target |
 |---|---|---|

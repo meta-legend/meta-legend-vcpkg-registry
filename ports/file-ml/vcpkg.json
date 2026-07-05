@@ -1,7 +1,7 @@
 {
   "name": "file-ml",
   "version": "1.0.0",
-  "description": "Cross-platform C++17 filesystem utilities (ML::File). Zero external dependencies. Part of the meta-legend family.",
+  "description": "Cross-platform C++17 filesystem utilities (ML::File). A companion to network-ml. Zero external dependencies.",
   "homepage": "https://github.com/meta-legend/file-ml-library",
   "license": "MIT",
   "dependencies": [
